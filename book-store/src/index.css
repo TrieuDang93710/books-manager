@@ -1,0 +1,37 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700;800;900&display=swap");
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer utilities{
+  .padding-x{
+    @apply lg:px-14 md:px-1 sm:px-6 px-24 
+  }
+
+  .custom-button{
+    @apply rounded-full custom-shadow z-20 bg-white transform cursor-pointer
+  }
+
+  .custom-input{
+    @apply border border-gray-300 py-[3px] rounded-sm w-9/12
+  }
+
+  .custom-label{
+    @apply flex justify-between text-sm items-center gap-3 
+  }
+}
+
+@layer components{
+  .max-container {
+    max-width: 1440px;
+    margin: 0 auto
+  }
+  .max-slider {
+    max-width: 830px;
+    margin: 0 auto
+  }
+  .custom-shadow{
+    box-shadow: 0px 2px 8px #00000029;
+  }
+}

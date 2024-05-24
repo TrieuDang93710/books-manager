@@ -1,0 +1,169 @@
+{
+  "categories": [
+    {
+      "id": "literature",
+      "name": "Văn học",
+      "bookTypes": [
+        {
+          "id": "novel",
+          "name": "Tiểu Thuyết",
+          "books": [
+            {
+              "id": "book-1",
+              "name": "Con Chim Xanh Biếc Bay Về",
+              "sales": 10,
+              "description": "Như một cuốn phim “trinh thám tình yêu”, Con chim xanh biếc bay về dẫn bạn đi hết từ bất ngờ này đến tò mò suy đoán khác, để kết thúc bằng một nỗi hân hoan vô bờ sau bao phen hồi hộp nghi kỵ đến khó thở",
+              "price": 150000,
+              "image": "https://cdn0.fahasa.com/media/catalog/product/b/i/biamem.jpg",
+              "viewCounts": 10,
+              "author": "Nguyễn Nhật Ánh"
+            },
+            {
+              "id": "book-2",
+              "name": "Totto-Chan Bên Cửa Sổ",
+              "sales": 22,
+              "description": "Totto-chan bên cửa sổ là cuốn sách gối đầu giường của nhiều thế hệ trẻ em trên toàn thế giới suốt ba mươi năm nay. Sau khi xuất bản lần đầu vào năm 1981, cuốn sách đã gây được tiếng vang lớn không chỉ ở Nhật Bản mà còn trên toàn thế giới",
+              "price": 98000,
+              "image": "https://cdn0.fahasa.com/media/catalog/product/i/m/image_181775.jpg",
+              "viewCounts": 10,
+              "author": "Kuroyanagi Tetsuko"
+            },
+            {
+              "id": "book-3",
+              "name": "Kafka Bên Bờ Biển",
+              "sales": 22,
+              "description": "“Những biến hóa của Murakami quanh chủ đề [hai nửa linh hồn] cùng huyền thoại về Oedipus độc đáo một cách táo bạo và hay một cách thuyết phục. Xin nồng nhiệt giới thiệu Kafka bên bờ biển; nhớ đọc cho con mèo nhà bạn nghe.” - Steven Moore, The Washington Post",
+              "price": 158000,
+              "image": "https://cdn0.fahasa.com/media/catalog/product/i/m/image_195509_1_32831.jpg",
+              "viewCounts": 10,
+              "author": "Haruki Murakami"
+            }
+          ]
+        },
+        {
+          "id": "shortStory",
+          "name": "Truyện Ngắn - Tản Văn",
+          "books": [
+            {
+              "id": "book-4",
+              "name": "Đám Trẻ Ở Đại Dương Đen",
+              "sales": 27,
+              "description": "Cuốn sách được viết bởi Châu Sa Đáy Mắt, một tác giả GenZ mong muốn cùng các bạn trẻ bộc bạch và vỗ về những xúc cảm chân thật về gia đình, xã hội và chính bản thân.",
+              "price": 99000,
+              "image": "https://cdn0.fahasa.com/media/catalog/product/8/9/8935325011559.jpg",
+              "viewCounts": 10,
+              "author": "Châu Sa Đáy Mắt"
+            },
+            {
+              "id": "book-5",
+              "name": "999 lá thư gửi cho chính mình",
+              "sales": 27,
+              "description": "Đã bao lâu rồi bạn chưa ngồi xuống viết những dòng nhật ký, đã bao lâu rồi bạn chưa tự gửi cho mình một lá thư viết ra những điều bạn mong muốn, viết ra những ước mơ còn dang dở...",
+              "price": 99000,
+              "image": "https://cdn0.fahasa.com/media/catalog/product/8/9/8935325010736.jpg",
+              "viewCounts": 10,
+              "author": "Miêu Công Tử"
+            },
+            {
+              "id": "book-6",
+              "name": "Chưa Kịp Lớn Đã Phải Trưởng Thành - Quyển 2",
+              "sales": 10,
+              "description": "Đã từng vẽ ra rất nhiều viễn cảnh tươi đẹp, nhưng lại không biết rằng, ở cái độ tuổi này, chúng ta vẫn còn hoài nghi bản thân, vẫn đang loay hoay tìm con đường của riêng mình. Chúng ta vẫn chỉ là những đứa trẻ “chưa kịp lớn đã phải trưởng thành”!",
+              "price": 79000,
+              "image": "https://cdn0.fahasa.com/media/catalog/product/9/7/9786043315516.jpg",
+              "viewCounts": 10,
+              "author": "Amy Trương"
+            }
+          ]
+        },
+        {
+          "id": "speculativeFiction",
+          "name": "Huyền Bí - Giả Tưởng - Kinh Dị",
+          "books": [
+            {
+              "id": "book-7",
+              "name": "Điều Kỳ Diệu Của Tiệm Tạp Hóa Namiya",
+              "sales": 22,
+              "description": "Tài kể chuyện hơn người đã giúp Keigo khéo léo thay đổi các mốc dấu thời gian và không gian, chắp nối những câu chuyện tưởng chừng hoàn toàn riêng rẽ thành một kết cấu chặt chẽ, gây bất ngờ từ đầu tới cuối.",
+              "price": 105000,
+              "image": "https://cdn0.fahasa.com/media/catalog/product/8/9/8935235217508_11.jpg",
+              "viewCounts": 10,
+              "author": "Higashino Keigo"
+            },
+            {
+              "id": "book-8",
+              "name": "Harry Potter Và Tên Tù Nhân Ngục Azkaban - Tập 3",
+              "sales": 13,
+              "description": "Dường như trường Hogwarts là nơi an toàn nhất cho Harry lúc này. Nhưng có phải là sự trùng hợp khi cậu luôn cảm giác có ai đang quan sát mình từ bóng đêm, và những điềm báo của giáo sư Trelawney liệu có chính xác?. ‘Câu chuyện được kể với trí tưởng tượng bay bổng, sự hài hước bất tận có thể quyến rũ cả người lớn lẫn trẻ em.’ - Sunday Express",
+              "price": 205000,
+              "image": "https://cdn0.fahasa.com/media/catalog/product/8/9/8934974179658.jpg",
+              "viewCounts": 10,
+              "author": "J.K.Rowling, Lý Lan"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "psychologyAndLifeSkills",
+      "name": "Tâm lý - Kỹ năng sống",
+      "bookTypes": [
+        {
+          "id": "psychology",
+          "name": "Tâm lý",
+          "books": [
+            {
+              "id": "book-9",
+              "name": "Đứa Trẻ Hiểu Chuyện Thường Không Có Kẹo Ăn",
+              "sales": 27,
+              "description": "“Đứa trẻ hiểu chuyện thường không có kẹo ăn” – Cuốn sách dành cho những thời thơ ấu đầy vết thương. Tài kể chuyện hơn người đã giúp Keigo khéo léo thay đổi các mốc dấu thời gian...",
+              "price": 148000,
+              "image": "https://cdn0.fahasa.com/media/catalog/product/8/9/8935325011818.jpg",
+              "viewCounts": 10,
+              "author": "Nguyên Anh"
+            },
+            {
+              "id": "book-10",
+              "name": "Đại Dương Đen - Những Câu Chuyện Từ Thế Giới Của Trầm Cảm",
+              "sales": 22,
+              "description": "Đại dương đen là hành trình nhẫn nại của tác giả Đặng Hoàng Giang cùng người trầm cảm, kể cho chúng ta câu chuyện vừa dữ dội vừa tê tái về những số phận, mà vì định kiến và sự thiếu hiểu biết của chính gia đình và xã hội, đã bị tước đi quyền được sống với nhân phẩm, được cống hiến, được yêu thương và hạnh phúc.",
+              "price": 240000,
+              "image": "https://cdn0.fahasa.com/media/catalog/product/d/a/dai-duong-den---bia-mem-01.jpg",
+              "viewCounts": 10,
+              "author": "Đặng Hoàng Giang"
+            }
+          ]
+        },
+        {
+          "id": "LifeSkills",
+          "name": "Kĩ năng sống",
+          "books": [
+            {
+              "id": "book-11",
+              "name": "Nóng Giận Là Bản Năng, Tĩnh Lặng Là Bản Lĩnh",
+              "sales": 24,
+              "description": "Cuốn sách là tập hợp những bài học, lời tâm sự về nhân sinh, luận về cuộc đời của đại sư Hoằng Nhất – vị tài tử buông mọi trần tục để quy y cửa Phật...",
+              "price": 89000,
+              "image": "https://cdn0.fahasa.com/media/catalog/product/n/o/nong-gian-la-ban-nang-1_1.jpg",
+              "viewCounts": 10,
+              "author": "Tống Mặc"
+            }
+          ]
+        }
+      ]
+    },
+    
+    {
+      "id": "Economy",
+      "name": "Kinh tế",
+      "bookTypes": [
+        {
+          "id": "leadership",
+          "name": "Quản Trị - Lãnh Đạo",
+          "books": [
+          ]
+        }
+      ]
+    }
+  ]
+}
